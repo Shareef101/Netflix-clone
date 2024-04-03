@@ -1,2 +1,2 @@
 # Netflix-clone
-I cloned Netflix and better
+I cloned Netflix and did it better
